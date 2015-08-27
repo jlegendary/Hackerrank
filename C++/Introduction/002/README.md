@@ -2,8 +2,8 @@ Basic Data Types
 =================
 
 Problem:  
-- Use scanf and printf, instead of cin and cout.
-- Input the elements and output each in a new line:
+- Use cin and cout.
+- Input the elements and output each in a new line as it is
 
 
 Input Format:  

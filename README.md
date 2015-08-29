@@ -1,12 +1,25 @@
 # C++ Problems
 
-| Section | README.md |
+| Section | Solutions list |
 |---------|--------------------|
-| C++ | [README.md](C++/README.md) |
+| C++ | [Solutions list](C++/README.md) |
 
 
 # Java Problems
 
-| Java | README.md | 
+| Section | Solutions list | 
 |----------|--------------|
-| Java | [README.md](Java/README.md) |
+| Java | [Solutions list](Java/README.md) |
+
+
+# Linux Shell
+
+| Section | Solutions list | 
+|------------|-------------------|
+| Linux Shell | [Solutions list](Linux Shell/README.md) |
+
+# Python
+
+| Section | Solutions list |
+|------------|-------------------|
+| Python | [Python list](Python/README.md) |

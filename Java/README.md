@@ -10,3 +10,4 @@
 | Introduction | Java Datatypes | [Java](Introduction/006/Solution.java) | 
 | Introduction | Java End-of-file | [Java](Introduction/007/Solution.java) | 
 | String | Java strings | [Java](Strings/001/Solution.java) | 
+| String | Java string token | [Java](Strings/002/Solution.java) | 

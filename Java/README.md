@@ -12,3 +12,4 @@
 | String | Java strings | [Java](Strings/001/Solution.java) | 
 | String | Java string token | [Java](Strings/002/Solution.java) | 
 | String | Java Regex | [Java](Strings/003/Solution.java) | 
+| BigInteger | Java BigInteger | [Java](BigInteger/001/Solution.java) | 

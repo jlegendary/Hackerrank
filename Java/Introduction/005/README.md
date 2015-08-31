@@ -1,3 +1,10 @@
+Java Loops
+============
+
+Introductory problem 5:
+----------------------
+
+
 Problem:
 Given three integers a, b, and n, output the following series:  
 >
